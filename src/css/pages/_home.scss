@@ -1,0 +1,27 @@
+
+.short-bio {
+  font-size: 1.3em;
+  margin: 0 0 1em 0;
+}
+
+@media screen and (max-width: 992px) {
+
+  #video--home-page {
+    margin-top: 2em;
+  }
+
+}
+
+.twitter-timeline {
+  width: 100% !important;
+}
+
+.quote {
+  font-size: 1.5em;
+  line-height: 1.3em;
+
+  .source {
+    font-style: italic;
+    font-size: 0.8em;
+  }
+}

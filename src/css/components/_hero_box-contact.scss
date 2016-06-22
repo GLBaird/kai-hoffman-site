@@ -1,0 +1,40 @@
+.hero-box--contact {
+  height: 30em;
+  background-color: black;
+  background-image: url('../images/hero_contact2.png'), url('../images/hero_contact.png'), url('../images/hero_contact3.jpg');
+  background-repeat: no-repeat;
+  background-size: 25em, contain, contain;
+  background-position: left top, right center, center;
+  color: white;
+  font-size: 1.3em;
+  position: relative;
+
+  @media screen and (max-width: 1200px) {
+    background-image: url('../images/hero_contact2.png'), url('../images/hero_contact.png');
+    background-size: 25em, contain;
+    background-position:  left top, right center;
+  }
+
+  @media screen and (max-width: 900px) {
+    background-image: url('../images/hero_contact2.png');
+    background-size: 30em;
+    background-position: center top;
+  }
+
+  @media screen and (max-width: 380px) {
+    height: 28em;
+  }
+
+  @media screen and (max-height: 500px) {
+    height: 24em;
+  }
+  .hero-box--contact__text {
+    bottom: 2em;
+    position: absolute;
+    width: 100%;
+
+    @media screen and (max-height: 500px) {
+      text-shadow: 2px 2px 2px black;
+    }
+  }
+}

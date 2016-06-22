@@ -1,0 +1,11 @@
+.hero-box--about {
+  background-image: url('../images/kai-hoffman-about.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 30em;
+  margin-bottom: 1em;
+
+  @media screen and (max-width: 992px) {
+    height:22em;
+  }
+}

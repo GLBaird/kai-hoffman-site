@@ -1,0 +1,6 @@
+RewriteEngine on
+RewriteBase /kai-site/public
+
+RewriteRule ^([^\.]+)$ ./site.php?page=$1 [L]
+
+RewriteRule (.*)$ ./$1 [R=301]

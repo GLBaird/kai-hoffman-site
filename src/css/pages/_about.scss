@@ -1,0 +1,26 @@
+.about__img--kai-standing {
+  max-width: 230%;
+  margin-left: -15em;
+
+  z-index: 1;
+
+  @media screen and (max-width: 992px) {
+    margin-left: -10em;
+    max-width: 220%;
+  }
+
+  @media screen and (max-width: 770px){
+    margin-left: -8em;
+  }
+
+  @media screen and (max-width: 600px) {
+    margin-left: 0;
+    max-width: 100%;
+    clear: both;
+  }
+}
+
+p {
+  position: relative;
+  z-index: 10;
+}

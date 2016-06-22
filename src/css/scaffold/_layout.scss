@@ -1,0 +1,85 @@
+@import "colors";
+
+main {
+  margin-top: 3em;
+}
+
+footer {
+
+  .row {
+    margin-bottom: 0;
+  }
+
+  .social {
+    background: $footer-bg-color;
+    font-size: 2em;
+
+    padding: 0.2em;
+
+    a {
+      color: white;
+      margin-right: 0.2em;
+    }
+
+    p {
+      font-size: 16px;
+      color: white;
+    }
+
+    .contact {
+      margin: 0;
+
+      a {
+        color: lightgreen;
+
+        &:hover {
+          color: white;
+        }
+      }
+    }
+  }
+
+  .copyright {
+    background: $footer-bg-color-dark;
+    color: white;
+    padding: 0.5em;
+  }
+
+}
+
+@media screen and (max-width: 420px) {
+  h1 {
+    font-size: 2.5em;
+    padding-top: 0.2em;
+    position: absolute;
+    margin: 0 !important;
+    right: 1em;
+    left: 2em;
+    text-align: right !important;
+
+    a {
+      position: static !important;
+      transform: none !important;
+      display: inline-block;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+  }
+}
+
+.side-nav {
+  background-color: black;
+  font-weight: 800;
+
+  background-image: url('../images/menu_mobile_kai.jpg');
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: bottom center;
+
+  padding-top:2em;
+  
+  @media screen and (max-height: 560px) {
+    padding-top: 0;
+  }
+}
+

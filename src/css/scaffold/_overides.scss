@@ -1,0 +1,101 @@
+@import "colors";
+
+// general bootstrap styles
+body {
+  color: $text-color;
+}
+
+h1 {
+  margin: 0;
+}
+
+a {
+  transition: color 0.5s, background-color 0.5s;
+}
+
+// overrides for materialize
+.brand-logo {
+  font-family: $kai-font;
+  font-size: 0.8em !important;
+}
+
+.navbar-fixed nav {
+  background-color: $navbar-bg-color !important;
+
+  * {
+    color: $text-color;
+  }
+
+}
+
+
+.side-nav a {
+  color: white !important;
+
+  &:hover {
+    background-color: rgba(255,255,255, 0.3);
+  }
+}
+
+// Overrides for preloader-wrapper used in preloader-js
+.preloader-js {
+  position: relative;
+
+  .preloader-wrapper {
+    position: absolute;
+    top:40%;
+    z-index: 1000;
+  }
+}
+
+// Mail Chimp overrides
+#mc_embed_signup{
+  background:transparent; color: white; clear:left;
+  font-size: 0.5em;
+
+  h2 {
+    font-size: 1.2em !important;
+    font-weight: normal !important;
+    margin-top: 0 !important;
+  }
+
+  label {
+    color: white !important;
+    margin-top: 1em;
+  }
+
+  input[type='email'] {
+    background: white;
+    font-size: 1em;
+    padding: 0 1em !important;
+    color: $text-color !important;
+    height: 2em;
+    margin-right: 1em !important;
+    width: 93%;
+  }
+
+  form {
+    padding-left: 0 !important;
+    width: 100%;
+    padding-bottom: 0 !important;
+  }
+
+  .indicates-required {
+    margin-right: 0 !important;
+  }
+
+  #mc-embedded-subscribe {
+    background: white;
+    color: $footer-bg-color;
+    font-size: 0.8em;
+    margin-bottom: 0.3em;
+    height: 2.6em;
+  }
+
+  .row {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+  }
+
+}
+
