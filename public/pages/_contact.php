@@ -15,7 +15,7 @@ if ($name != null && $email !== null && $subject !== null && $message !== null)
     $headers = "From: $email" . "\r\n" .
                "Reply-To: $email" . "\r\n" .
                'X-Mailer: PHP/' . phpversion();
-    $sent = mail('kaihoffmanjazz@gmail.com', "Email from kaihoffman.co.uk: $subject", "Telephone: $telephone\n\nMessage:\n$message", $headers);
+    $sent = mail('kaihoffmanjazz@gmail.com', "Email from kaihoffman.co.uk: $subject", "Name: $name, Telephone: $telephone\n\nMessage:\n$message", $headers);
 }
 
 ?>

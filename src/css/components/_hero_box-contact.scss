@@ -9,6 +9,8 @@
   font-size: 1.3em;
   position: relative;
 
+  transition: background-image 1s, background-position 1.5s, background-size 1s;
+
   @media screen and (max-width: 1200px) {
     background-image: url('../images/hero_contact2.png'), url('../images/hero_contact.png');
     background-size: 25em, contain;

@@ -1,5 +1,12 @@
 @import "colors";
 
+body {
+  width: 100%;
+  width: 100vw;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+
 main {
   margin-top: 3em;
 }

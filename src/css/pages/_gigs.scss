@@ -1,0 +1,55 @@
+.gig-list {
+  max-height: 32.5em;
+  overflow: auto;
+
+  @media screen and (max-width: 992px) {
+    max-height: none;
+  }
+}
+
+.gig-side-image {
+  height: 33em;
+  background: black;
+  background-image: url('../images/gigs-side.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.gig-list-item {
+
+  .title {
+    font-weight: bold;
+    font-size: 3em;
+  }
+
+  .map-link {
+    display: inline-block;
+    position: absolute;
+    z-index: 500;
+  }
+
+  .gig-list-item--link {
+    width: 85%;
+    display: block;
+    color: $text-color;
+    @media screen and (max-width: 360px) {
+      width: 78%;
+    }
+  }
+}
+
+#map-modal iframe {
+  width: 100% !important;
+}
+
+.superscript-left {
+  position: absolute;
+  margin-top: 0.2em;
+  margin-left: -1.3em;
+}
+
+.superscript-right {
+  position: absolute;
+  margin-top: 0.2em;
+}

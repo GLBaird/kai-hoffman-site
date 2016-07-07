@@ -7,7 +7,7 @@
                 <ul class="right hide-on-med-and-down">
                     <li><a href="/">Home</a></li>
                     <li><a href="/pages/about">About</a></li>
-                    <li><a href="#">Gigs</a></li>
+                    <li><a href="/pages/gigs">Gigs</a></li>
                     <li><a href="#">Listen</a></li>
                     <li><a href="#">Merchandise</a></li>
                     <li><a href="/pages/contact">Contact</a></li>
@@ -15,7 +15,7 @@
                 <ul class="side-nav" id="mobile-menu">
                     <li><a href="/">Home</a></li>
                     <li><a href="/pages/about">About</a></li>
-                    <li><a href="#">Gigs</a></li>
+                    <li><a href="/pages/gigs">Gigs</a></li>
                     <li><a href="#">Listen</a></li>
                     <li><a href="#">Merchandise</a></li>
                     <li><a href="/pages/contact">Contact</a></li>
