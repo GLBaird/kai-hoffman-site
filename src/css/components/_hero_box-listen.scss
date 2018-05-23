@@ -1,0 +1,51 @@
+.hero-box--listen {
+  background-color: black;
+  background-image: url('../images/kai_listen.jpg');
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: left top;
+  color: white;
+  height: 24em;
+  margin-bottom: 2em;
+  box-shadow: 0 2px 5px rgba(0,0,0, 0.3);
+  padding-left: 5em;
+  padding-top: 2em;
+  overflow: hidden;
+  position: relative;
+
+  @media screen and (max-width: 1100px) {
+    background-position: center top;
+    background-size: cover;
+
+  }
+
+  .quote-text {
+    margin-top: 8em;
+    position: absolute;
+    left: 40em !important;
+    right: 5em !important;
+    margin-left: 0 !important;
+    margin-right: 0;
+    width: auto !important;
+    max-width: 100em !important;
+
+    @media screen and (max-width: 1750px) {
+      margin-top: 0.5em;
+    }
+
+    @media screen and (max-width: 1275px) {
+      font-size: 0.9em !important;
+    }
+
+    @media screen and (max-width: 1100px) {
+      font-size: 0.7em !important;
+      position: absolute;
+      bottom:1.3em;
+      left:1.3em !important;
+      right:1.3em !important;
+      width: auto;
+      float: none;
+      line-height: 2.3em;
+    }
+  }
+}

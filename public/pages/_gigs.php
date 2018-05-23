@@ -9,7 +9,7 @@
     </div>
 </div>
 <main class="container">
-    <h2>Gigs 2016</h2>
+    <h2>Gigs <?php echo date("Y"); ?></h2>
     <p>Here is a summary of Kai's shows in various guises - from duo to six-piece Kombo, cabaret and concerts.</p>
     <div class="row">
         <div class="col s12 l5 hide-on-med-and-down gig-side-image">
@@ -27,7 +27,7 @@
                         <p><?php echo $gig['date']; ?> <br>
                             <?php echo $gig['time']; ?>
                         </p>
-                        <a href="#map-modal" data-map="<?php echo $gig['mapRef']; ?>" class="secondary-content map-link waves-effect waves-light modal-trigger" title="View location in Google Maps">
+                        <a href="#map-modal" data-map='<?php echo $gig['mapRef']; ?>' class="secondary-content map-link waves-effect waves-light modal-trigger" title="View location in Google Maps">
                             <img src="/images/map-icon.png" alt="Google Maps" width="50px">
                         </a>
                     </a>

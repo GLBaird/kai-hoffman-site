@@ -1,0 +1,53 @@
+{
+  "title": "Gigs",
+  "description": "Kai Hoffman Jazz singer",
+  "keywords": "Kai, Hoffman, Kai Hoffman, jazz, singer, london",
+  "list": [
+    {
+      "date": "September 10th",
+      "time": "7pm",
+      "venue":"KBC Main Hall, Wild Court, 4 Wild Court, London, WC2B 4AU",
+      "mapRef":"<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2482.8737687996513!2d-0.12206498400576918!3d51.515531817929215!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761b352f880ec3%3A0x2a3a14e3b36b69dc!2s4+Wild+Ct%2C+London+WC2B+4AU!5e0!3m2!1sen!2suk!4v1473125131138' width='600' height='450' frameborder='0' style='border:0' allowfullscreen></iframe>",
+      "link": "http://www.swingdanceuk.com/classes-socials-2/socials/swing-time/",
+      "icon": "mic",
+      "color":"red accent-2"
+    },
+    {
+      "date": "September 14th",
+      "time": "",
+      "venue": "Nightjar",
+      "mapRef": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2482.2724520868173!2d-0.08989128422930985!3d51.52656247963837!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761ca5e41d5491%3A0x8ef36ed4c7dbb3aa!2sCity+Rd%2C+London+EC1V+1JB!5e0!3m2!1sen!2suk!4v1467854311604' width='600' height='450' frameborder='0' style='border:0' allowfullscreen></iframe>",
+      "link": "https://barnightjar.com",
+      "icon": "mic",
+      "color": "red accent-2"
+    },
+    {
+      "date": "September 16th",
+      "time": "",
+      "venue": "Oriole Bar",
+      "mapRef": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2482.7100877529083!2d-0.10559503422963176!3d51.51853457963695!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761b5248a8d201%3A0x42ae0d6c49291bc2!2sLondon+Wall%2C+London+EC1A+9LH!5e0!3m2!1sen!2suk!4v1467854623779' width='600' height='450' frameborder='0' style='border:0' allowfullscreen></iframe>",
+      "link": "http://www.oriolebar.com/",
+      "icon": "mic",
+      "color": "red accent-2"
+    },
+    {
+      "date": "September 17th",
+      "time": "8pm",
+      "venue": "Watermans Arts Centre",
+      "mapRef": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1242.2572892954124!2d-0.29804474164070527!3d51.48542391515677!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48760dc5b4d39955%3A0x4df545f7b764c0a5!2sHigh+St%2C+Brentford+TW8+0DS!5e0!3m2!1sen!2suk!4v1473125668773' width='600' height='450' frameborder='0' style='border:0' allowfullscreen></iframe>",
+      "link": "https://www.watermans.org.uk/events/cry-me-a-river-a-tribute-to-ella-fitzgerald-river-weekender-2016/",
+      "icon": "society",
+      "color": "lime lighten-1"
+    },
+    {
+      "date": "September 23rd",
+      "time": "",
+      "venue": "The Blue Fez Underdog Gallery, London Bridge",
+      "mapRef": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2483.5957938542965!2d-0.08443858423020988!3d51.50228462963422!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48760345295e0473%3A0x4ec518628686aa79!2sCrucifix+Ln%2C+London+SE1+3JW!5e0!3m2!1sen!2suk!4v1467854948355' width='600' height='450' frameborder='0' style='border:0' allowfullscreen></iframe>",
+      "link": "https://www.facebook.com/underdogart/",
+      "icon": "society",
+      "color": "lime lighten-1"
+    }
+  ]
+}
+

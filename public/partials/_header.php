@@ -8,16 +8,14 @@
                     <li><a href="/">Home</a></li>
                     <li><a href="/pages/about">About</a></li>
                     <li><a href="/pages/gigs">Gigs</a></li>
-                    <li><a href="#">Listen</a></li>
-                    <li><a href="#">Merchandise</a></li>
+                    <li><a href="/pages/listen">Listen and Buy</a></li>
                     <li><a href="/pages/contact">Contact</a></li>
                 </ul>
                 <ul class="side-nav" id="mobile-menu">
                     <li><a href="/">Home</a></li>
                     <li><a href="/pages/about">About</a></li>
                     <li><a href="/pages/gigs">Gigs</a></li>
-                    <li><a href="#">Listen</a></li>
-                    <li><a href="#">Merchandise</a></li>
+                    <li><a href="/pages/listen">Listen and Buy</a></li>
                     <li><a href="/pages/contact">Contact</a></li>
                 </ul>
             </div>

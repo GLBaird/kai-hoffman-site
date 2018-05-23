@@ -1,0 +1,79 @@
+{
+  "title": "Gigs",
+  "description": "Kai Hoffman Jazz singer",
+  "keywords": "Kai, Hoffman, Kai Hoffman, jazz, singer, london",
+  "list": [
+    {
+      "date": "November 29th",
+      "time": "8pm",
+      "venue": "Queens of Blues at Boisdale Canary Wharf",
+      "mapRef": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2483.4379860675567!2d-0.02384838428715871!3d51.505180179634806!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487602c80693fd93%3A0x42f0ff9a8dcf9503!2sCabot+Square%2C+Canary+Wharf%2C+London+E14+4QT!5e0!3m2!1sen!2suk!4v1479408588274' width='600' height='450' frameborder='0' style='border:0' allowfullscreen></iframe>",
+      "link": "http://www.boisdale.co.uk/canary-wharf/",
+      "icon": "society",
+      "color": "lime lighten-1"
+    },
+    {
+      "date": "November 30th",
+      "time": "8pm",
+      "venue": "Queens of Blues at Boisdale Canary Wharf",
+      "mapRef": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2483.4379860675567!2d-0.02384838428715871!3d51.505180179634806!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487602c80693fd93%3A0x42f0ff9a8dcf9503!2sCabot+Square%2C+Canary+Wharf%2C+London+E14+4QT!5e0!3m2!1sen!2suk!4v1479408588274' width='600' height='450' frameborder='0' style='border:0' allowfullscreen></iframe>",
+      "link": "http://www.boisdale.co.uk/canary-wharf/",
+      "icon": "society",
+      "color": "lime lighten-1"
+    },
+      {
+      "date": "December 6th",
+      "time": "7pm",
+      "venue": "Sketch Jam at Beach Creative Herne Bay",
+      "mapRef": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2490.805350581194!2d1.123906165707677!3d51.36987497961284!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47d93564690130c5%3A0xd2f074ad3f4b2210!2sHerne+Bay+CT6+5PT!5e0!3m2!1sen!2suk!4v1479408781860' width='600' height='450' frameborder='0' style='border:0' allowfullscreen></iframe>",
+      "link": "https://www.ticketsource.co.uk/date/307960",
+      "icon": "society",
+      "color": "lime lighten-1"
+    },
+      {
+      "date": "December 10th",
+      "time": "7pm",
+      "venue": "Mersea Centre Colchester",
+      "mapRef": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2468.609825557782!2d0.9091520157231482!3d51.77673972968031!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47d91a32f802dffd%3A0x48e0d08254a500af!2sHigh+St%2C+West+Mersea%2C+Colchester+CO5+8QA!5e0!3m2!1sen!2suk!4v1479409008534' width='600' height='450' frameborder='0' style='border:0' allowfullscreen></iframe>",
+      "link": "http://www.merseacentre.org/events.html",
+      "icon": "society",
+      "color": "lime lighten-1"
+    },
+      {
+      "date": "December 13th",
+      "time": "8pm",
+      "venue": "Twickenham Jazz Club",
+      "mapRef": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2486.5354287639107!2d-0.3318469342893584!3d51.44832517962542!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48760c8a7045ddcb%3A0x300d89a711ddd52a!2sLondon+Rd%2C+Twickenham+TW1+3SZ!5e0!3m2!1sen!2suk!4v1479409156764' width='600' height='450' frameborder='0' style='border:0' allowfullscreen></iframe>",
+      "link": "http://www.twickenhamjazzclub.co.uk",
+      "icon": "society",
+      "color": "lime lighten-1"
+    },
+      {
+      "date": "December 18th",
+      "time": "4pm",
+      "venue": "The East Kent Whitstable",
+      "mapRef": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2491.6162066188276!2d1.022928265707106!3d51.354967629610265!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47d9335acd261643%3A0xd03057453212c8bc!2sOxford+St%2C+Whitstable+CT5+1DA!5e0!3m2!1sen!2suk!4v1479409422929' width='600' height='450' frameborder='0' style='border:0' allowfullscreen></iframe>",
+      "link": "https://www.facebook.com/eastkent.whitstable/",
+      "icon": "society",
+      "color": "lime lighten-1"
+    },
+      {
+      "date": "January 5th",
+      "time": "8pm",
+      "venue": "Oriole Bar London",
+      "mapRef": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2482.710087752911!2d-0.10559503428668102!3d51.5185345796369!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761b5248a8d201%3A0x42ae0d6c49291bc2!2sLondon+Wall%2C+London+EC1A+9LH!5e0!3m2!1sen!2suk!4v1479409708815' width='600' height='450' frameborder='0' style='border:0' allowfullscreen></iframe>",
+      "link": "http://www.oriolebar.com",
+      "icon": "society",
+      "color": "lime lighten-1"
+    },
+    {
+      "date": "January 22nd",
+      "time": "12pm",
+      "venue": "Ronnie Scott's Club London",
+      "mapRef": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2482.992315343275!2d-0.13402463428689174!3d51.51335697963607!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487604d2e6bc1c27%3A0xf07a95c0f7805aac!2sFrith+St%2C+Soho%2C+London+W1D+4HT!5e0!3m2!1sen!2suk!4v1479409805234' width='600' height='450' frameborder='0' style='border:0' allowfullscreen></iframe>",
+      "link": "http://ronniescotts.co.uk/performances/view/3685-kai-hoffman-thank-you-ella",
+      "icon": "society",
+      "color": "lime lighten-1"
+    }
+  ]
+}

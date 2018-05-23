@@ -1,0 +1,159 @@
+body {
+    background: #EFEFEF;
+    font-family: HelveticaNeueLight, Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    color: #444;
+}
+
+.container {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+@media screen and (max-height: 740px) {
+    .container {
+        position: static;
+        align-items: flex-start;
+        width: 100%;
+        margin: 2em 0;
+    }
+}
+
+.panel {
+    background: white;
+    padding: 1em 2em;
+    box-shadow: 2px 2px 6px rgba(0,0,0, 0.1);
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+}
+
+input[type='text'], input[type='password'], textarea {
+    width: 100%;
+    box-sizing: border-box;
+    padding: 0.5em 1em;
+    font-size: 1em;
+    color: black;
+    border-radius: 5px;
+    border: 1px solid rgba(0,0,0, 0.1);
+    box-shadow: inset 2px 2px 4px rgba(0,0,0,0.1);
+}
+
+.buttons {
+    text-align: right;
+}
+
+input[type='reset'], input[type='submit'] {
+    appearance: none;
+    -webkit-appearance: none;
+    border: none;
+    background: #EFEFEF;
+    font-size: 1em;
+    padding: 0.5em 1em;
+    border-radius: 5px;
+}
+
+@keyframes appear {
+    to {
+        max-height: 2em;
+        opacity: 1;
+    }
+}
+
+.error {
+    color: red;
+    text-align: center;
+    max-height: 0;
+    opacity: 0;
+    animation: appear 0.5s linear forwards;
+}
+
+.options {
+    margin-left: 1em;
+}
+
+a {
+    display: inline-block;
+    color: darkblue;
+    text-decoration: none;
+    transition: color 0.5s;
+}
+
+a:hover {
+    color: red;
+}
+
+.formButtons {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.complete {
+    color: greenyellow;
+}
+
+table {
+    width: 100%;
+    margin: 1em 0;
+    border: 1px solid #444;
+    table-layout: auto;
+    border-collapse: collapse
+}
+
+th {
+    background: #444;
+    border: 1px solid #444;
+    color: white;
+}
+
+td {
+    border: 1px solid #444;
+}
+
+th, td {
+    padding: 0.5em 1em;
+    text-align: left;
+}
+
+.tableScroll {
+    max-height: 20em;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+.editTools {
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;width: 6em;
+}
+
+.editTools > a {
+    margin-left: 0.5em;
+}
+
+.editTools > a:first-child {
+    margin-left: 0;
+}
+
+.arrows {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 0.5em;
+}
+
+.arrows img {
+    height: 1em;
+    cursor: pointer;
+}

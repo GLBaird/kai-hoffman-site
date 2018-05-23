@@ -1,0 +1,115 @@
+{
+  "title": "Gigs",
+  "description": "Kai Hoffman Jazz singer",
+  "keywords": "Kai, Hoffman, Kai Hoffman, jazz, singer, london",
+  "list": [
+    {
+      "date": "Sunday January 7th 2018",
+      "time": "4pm to 6pm",
+      "venue": "Three Horseshoes Faversham",
+      "mapRef": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d450.49083015588064!2d0.9536101872786109!3d51.302383475528394!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47decd77937aece5%3A0x20c42887e63109a1!2sThree+Horseshoes!5e0!3m2!1sen!2suk!4v1515445602613' width='600' height='450' frameborder='0' style='border:0' allowfullscreen></iframe>",
+      "link": "https://www.threehorseshoesfaversham.co.uk/",
+      "icon": "mic",
+      "color": "red accent-2"
+    },
+    {
+      "date": "Friday January 19th",
+      "time": "9pm to 12:30am",
+      "venue": "Oriole Bar London",
+      "mapRef": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d529.8198605936276!2d-0.10381435276721344!3d51.51880765256567!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761b52489fe73f%3A0xaef3a7398c7e219c!2sOriole+Bar!5e0!3m2!1sen!2suk!4v1515445749442' width='600' height='450' frameborder='0' style='border:0' allowfullscreen></iframe>",
+      "link": "https://www.oriolebar.com",
+      "icon": "mic",
+      "color": "red accent-2"
+    },
+    {
+      "date": "Thursday Feb 1st",
+      "time": "9pm to 11:00pm",
+      "venue": "Oriole Bar London",
+      "mapRef": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d529.8198605936276!2d-0.10381435276721344!3d51.51880765256567!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761b52489fe73f%3A0xaef3a7398c7e219c!2sOriole+Bar!5e0!3m2!1sen!2suk!4v1515445749442' width='600' height='450' frameborder='0' style='border:0' allowfullscreen></iframe>",
+      "link": "https://www.oriolebar.com",
+      "icon": "mic",
+      "color": "red accent-2"
+    },
+    {
+      "date": "Friday Feb 16",
+      "time": "9pm to 12:30am",
+      "venue": "Oriole Bar London",
+      "mapRef": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d529.8198605936276!2d-0.10381435276721344!3d51.51880765256567!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761b52489fe73f%3A0xaef3a7398c7e219c!2sOriole+Bar!5e0!3m2!1sen!2suk!4v1515445749442' width='600' height='450' frameborder='0' style='border:0' allowfullscreen></iframe>",
+      "link": "https://www.oriolebar.com",
+      "icon": "mic",
+      "color": "red accent-2"
+    },
+    {
+      "date": "Over 60s Club Hall, William St Herne Bay tickets",
+      "time": "Saturday Feb 24th, 8pm to 11pm",
+      "venue": "Jazz & Cocktail Night, Herne Bay Twinning Association",
+      "mapRef": "",
+      "link": "",
+      "icon": "mic",
+      "color": "red accent-2"
+    },
+    {
+      "date": "Thursday March 1st",
+      "time": "9pm to 12:30am",
+      "venue": "Oriole Bar London",
+      "mapRef": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d529.8198605936276!2d-0.10381435276721344!3d51.51880765256567!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761b52489fe73f%3A0xaef3a7398c7e219c!2sOriole+Bar!5e0!3m2!1sen!2suk!4v1515445749442' width='600' height='450' frameborder='0' style='border:0' allowfullscreen></iframe>",
+      "link": "https://www.oriolebar.com",
+      "icon": "mic",
+      "color": "red accent-2"
+    },
+    {
+      "date": "Friday March 9th",
+      "time": "Women of Vocal Jazz Show",
+      "venue": "At Beach Creative, Herne Bay, Kent",
+      "mapRef": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d710.3559232606183!2d1.125746742695436!3d51.36981752685784!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47d93564685a7561%3A0x53277d8ae9e52698!2sBeach+Creative!5e0!3m2!1sen!2suk!4v1515446716186' width='600' height='450' frameborder='0' style='border:0' allowfullscreen></iframe>",
+      "link": "http://www.beachcreative.org/",
+      "icon": "mic",
+      "color": "red accent-2"
+    },
+    {
+      "date": "Saturday March 10th",
+      "time": "Ella Fitzgerald Show at",
+      "venue": "Lodsworth Village Hall, Sussex",
+      "mapRef": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1255.4219873041995!2d-0.6854481916107545!3d51.00055529488884!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4875b58fd5ddc567%3A0xf1cc3578afd68b9c!2sLodsworth+Village+Hall!5e0!3m2!1sen!2suk!4v1515446832923' width='600' height='450' frameborder='0' style='border:0' allowfullscreen></iframe>",
+      "link": "http://www.lodsworthvillagehall.com/",
+      "icon": "mic",
+      "color": "red accent-2"
+    },
+    {
+      "date": "Thursday March 16th",
+      "time": "9pm to 12:30am",
+      "venue": "Oriole Bar London",
+      "mapRef": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d529.8198605936276!2d-0.10381435276721344!3d51.51880765256567!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761b52489fe73f%3A0xaef3a7398c7e219c!2sOriole+Bar!5e0!3m2!1sen!2suk!4v1515445749442' width='600' height='450' frameborder='0' style='border:0' allowfullscreen></iframe>",
+      "link": "https://www.oriolebar.com",
+      "icon": "mic",
+      "color": "red accent-2"
+    },
+    {
+      "date": "March 17th",
+      "time": "8pm to 1am",
+      "venue": "Jive Party at The Rivoli Ballroom, London",
+      "mapRef": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1645.9685798862242!2d-0.038903297444518134!3d51.45466124245301!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48760248ff5e91ed%3A0x41e44d46030bc045!2sBrockley+Rd%2C+London+SE4+2BY!5e0!3m2!1sen!2suk!4v1515446988030' width='600' height='450' frameborder='0' style='border:0' allowfullscreen></iframe>",
+      "link": "https://jiveparty.com",
+      "icon": "mic",
+      "color": "red accent-2"
+    },
+    {
+      "date": "July 14th",
+      "time": "",
+      "venue": "Swanage Jazz Festival Swing Dance",
+      "mapRef": "",
+      "link": "",
+      "icon": "mic",
+      "color": "red accent-2"
+    },
+    {
+      "date": "August 24th",
+      "time": "",
+      "venue": "MainStage at Twinwood Festival, UK",
+      "mapRef": "",
+      "link": "",
+      "icon": "mic",
+      "color": "red accent-2"
+    }
+  ]
+}

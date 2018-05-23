@@ -1,10 +1,22 @@
 @import "colors";
 
+html {
+  height: 100%;
+}
+
 body {
   width: 100%;
   width: 100vw;
   overflow-x: hidden;
   overflow-y: auto;
+  min-height: 100%;
+  padding-bottom: 10em;
+  position: relative;
+
+  @media screen and (max-width: 600px){
+    padding-bottom: 0;
+
+  }
 }
 
 main {
@@ -12,6 +24,10 @@ main {
 }
 
 footer {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right:0;
 
   .row {
     margin-bottom: 0;
@@ -44,12 +60,17 @@ footer {
         }
       }
     }
+
   }
 
   .copyright {
     background: $footer-bg-color-dark;
     color: white;
     padding: 0.5em;
+  }
+
+  @media screen and (max-width: 600px){
+    position: static;
   }
 
 }

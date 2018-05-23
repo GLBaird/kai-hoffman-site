@@ -65,7 +65,7 @@ var config = {
     },
     plugins: [
         new ExtractTextPlugin("./css/styles.css", { allChunks: true }),
-        new Clean(['./public/css', './public/js'])
+        new Clean(['./public/css'])
     ],
     sassLoader: {
         includePaths: [ 'src/css' ]

@@ -1,0 +1,116 @@
+{
+  "title": "Gigs",
+  "description": "Kai Hoffman Jazz singer",
+  "keywords": "Kai, Hoffman, Kai Hoffman, jazz, singer, london",
+  "list": [
+    {
+      "date": "Thursday July 7th",
+      "time": "8pm",
+      "venue": "Bike Shed, Shoreditch",
+      "mapRef": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2482.2381823210753!2d-0.08159659790921998!3d51.52719107953853!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761cbaf38e4ef9%3A0x679d40f8d4178563!2sOld+St%2C+London+EC1V+9LT!5e0!3m2!1sen!2suk!4v1466720519246' width='600' height='450' frameborder='0' style='border:0' allowfullscreen></iframe>",
+      "link": "http://thebikeshed.cc/cafebarshopclub/",
+      "icon": "mic",
+      "color": "lime accent-4"
+    },
+    {
+      "date": "Sunday July 10th",
+      "time": "12pm",
+      "venue": "Lunchtime at The Hideaway Jazz Club, Streatham <br>Kai's six-piece Kombo are thrilled <br> to be back at one of London's top jazz clubs!!!!",
+      "mapRef": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2487.7116137476564!2d-0.13264244791127908!3d51.4267239795219!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487606836bb35975%3A0x2573c3300bd8e9f7!2sLondon+SW16+2BF!5e0!3m2!1sen!2suk!4v1466720559783' width='600' height='450' frameborder='0' style='border:0' allowfullscreen></iframe>",
+      "link": "https://www.hideawaylive.co.uk/kai-hoffman-and-her-kombo-sunday-10th-july-2016",
+      "icon": "music",
+      "color": "deep-purple accent-1"
+    },
+    {
+      "date": "Wednesday July 13th",
+      "time": "8:30pm",
+      "venue": "Nightjar Old Street",
+      "mapRef": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2482.272452092274!2d-0.08989664790921789!3d51.52656247953828!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761ca5e41d5491%3A0x8ef36ed4c7dbb3aa!2sCity+Rd%2C+London+EC1V+1JB!5e0!3m2!1sen!2suk!4v1466720604304' width='600' height='450' frameborder='0' style='border:0' allowfullscreen></iframe>",
+      "link": "https://barnightjar.com/whats-on",
+      "icon": "mic",
+      "color": "cyan lighten-1"
+    },
+    {
+      "date": "Friday July 15th",
+      "time": "9pm",
+      "venue": "Bar Oriole Residency (see June 18)",
+      "mapRef": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2482.7100877583503!2d-0.10560039790945051!3d51.51853457953712!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761b5248a8d201%3A0x42ae0d6c49291bc2!2sLondon+Wall%2C+London+EC1A+9LH!5e0!3m2!1sen!2suk!4v1466720649119' width='600' height='450' frameborder='0' style='border:0' allowfullscreen></iframe>",
+      "link": "http://www.oriolebar.com/",
+      "icon": "mic",
+      "color": "pink accent-3"
+    },
+    {
+      "date": "Saturday July 23rd",
+      "time": "6pm",
+      "venue": "Treadam Barn, Llantilio, Wales",
+      "mapRef": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4930.936524539917!2d-2.906797047661379!3d51.83414336836202!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4871cf9681a2f79d%3A0x5993baf2edf1e183!2sAbergavenny%2C+Monmouthshire+NP7+8TA!5e0!3m2!1sen!2suk!4v1466720691335' width='600' height='450' frameborder='0' style='border:0' allowfullscreen></iframe>",
+      "link": "http://www.treadam-barn.co.uk/",
+      "icon": "dance",
+      "color": "yellow darken-1"
+    },
+    {
+      "date": "Tuesday July 26th",
+      "time": "8pm",
+      "venue": "Pegwell Bay Hotel, Ramsgate",
+      "mapRef": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1246.5871523469923!2d1.3904216262780735!3d51.32631374487645!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47deacc7cba33e63%3A0xd1451afdd2ee34e1!2sPegwell+Rd%2C+Ramsgate%2C+Kent+CT11+0NJ!5e0!3m2!1sen!2suk!4v1466720746721' width='600' height='450' frameborder='0' style='border:0' allowfullscreen></iframe>",
+      "link": "http://www.pegwellbayhotel.co.uk/",
+      "icon": "society",
+      "color": "lime lighten-1"
+    },
+    {
+      "date": "August 5th",
+      "time": "",
+      "venue": "Oriole Bar",
+      "mapRef": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2482.7100877583503!2d-0.10560039790941665!3d51.51853457953712!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761b5248a8d201%3A0x42ae0d6c49291bc2!2sLondon+Wall%2C+London+EC1A+9LH!5e0!3m2!1sen!2suk!4v1466720800650' width='600' height='450' frameborder='0' style='border:0' allowfullscreen></iframe>",
+      "link": "http://www.oriolebar.com/",
+      "icon": "mic",
+      "color": "red accent-2"
+    },
+    {
+      "date": "August 12th",
+      "time": "",
+      "venue": "Retro Festival, Newbury Showground",
+      "mapRef": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4972.2193824676415!2d-1.3090484500570059!3d51.45614245339889!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4876a5a27748d82d%3A0xaf1d299bde420172!2sThatcham%2C+West+Berkshire+RG18+9QZ!5e0!3m2!1sen!2suk!4v1467853363001' width='600' height='450' frameborder='0' style='border:0' allowfullscreen></iframe>",
+      "link": "http://www.retrofestival.co.uk/line-up/kai-hoffman-her-kombo/",
+      "icon": "mic",
+      "color": "red accent-2"
+    },
+
+    {
+      "date": "August 18th-30th",
+      "time": "",
+      "venue": "2016 Edinburgh Festival Fringe, Fingers Piano Bar",
+      "mapRef": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2233.7284307774116!2d-3.202898848372365!3d55.95407868382238!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4887c796c7b300ab%3A0x2e7f91bd9a00c9db!2sFingers+Piano+Bar!5e0!3m2!1sen!2suk!4v1467854157015' width='600' height='450' frameborder='0' style='border:0' allowfullscreen></iframe>",
+      "link": "https://www.edfringe.com",
+      "icon": "society",
+      "color": "lime lighten-1"
+    },
+    {
+      "date": "September 14th",
+      "time": "",
+      "venue": "Nightjar",
+      "mapRef": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2482.2724520868173!2d-0.08989128422930985!3d51.52656247963837!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761ca5e41d5491%3A0x8ef36ed4c7dbb3aa!2sCity+Rd%2C+London+EC1V+1JB!5e0!3m2!1sen!2suk!4v1467854311604' width='600' height='450' frameborder='0' style='border:0' allowfullscreen></iframe>",
+      "link": "https://barnightjar.com",
+      "icon": "mic",
+      "color": "red accent-2"
+    },
+    {
+      "date": "September 16th",
+      "time": "",
+      "venue": "Oriole Bar",
+      "mapRef": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2482.7100877529083!2d-0.10559503422963176!3d51.51853457963695!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761b5248a8d201%3A0x42ae0d6c49291bc2!2sLondon+Wall%2C+London+EC1A+9LH!5e0!3m2!1sen!2suk!4v1467854623779' width='600' height='450' frameborder='0' style='border:0' allowfullscreen></iframe>",
+      "link": "http://www.oriolebar.com/",
+      "icon": "mic",
+      "color": "red accent-2"
+    },
+    {
+      "date": "September 23rd",
+      "time": "",
+      "venue": "The Blue Fez Underdog Gallery, London Bridge",
+      "mapRef": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2483.5957938542965!2d-0.08443858423020988!3d51.50228462963422!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48760345295e0473%3A0x4ec518628686aa79!2sCrucifix+Ln%2C+London+SE1+3JW!5e0!3m2!1sen!2suk!4v1467854948355' width='600' height='450' frameborder='0' style='border:0' allowfullscreen></iframe>",
+      "link": "https://www.facebook.com/underdogart/",
+      "icon": "society",
+      "color": "lime lighten-1"
+    }
+  ]
+}
